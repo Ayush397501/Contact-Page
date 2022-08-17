@@ -1,0 +1,42 @@
+.container{
+    width: 30%;
+    text-align: center;
+    background-color: #100F0F;
+    margin-top: 5%;
+    padding: 3%;
+    border-radius: 10px; 
+    
+
+
+    
+}
+h1{
+    color: #FA7D09;
+}
+.form-input{
+    color: black;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 100%;
+    border: 2px solid #FA7D09;
+
+}
+.regis{
+    padding: 2%;
+    margin: 2% auto;
+}
+span{
+    color: #fff;
+}
+p a{
+    text-decoration: none;
+}
+.coder{
+    margin-top: 10%;
+    width: 40%;
+}
+main{
+    width: 80%;
+    color: #fff;
+    padding: 4%;
+}
